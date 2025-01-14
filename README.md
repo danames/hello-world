@@ -1,6 +1,3 @@
-# hello-world
-This is a repository for practicing the GitHub Flow
-
 # Hello World Test Repository
 
 This repository is a sandbox for learning and experimenting with GitHub features. It contains a simple "Hello, world!" program in various programming languages. Use it to practice your Git workflow and explore the different functionalities offered by GitHub.
